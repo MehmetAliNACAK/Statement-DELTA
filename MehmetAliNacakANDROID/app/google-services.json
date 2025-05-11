@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237243801692",
+    "project_id": "mehmetalinacakandroid",
+    "storage_bucket": "mehmetalinacakandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237243801692:android:f15eef5e23fa5d9cc9c699",
+        "android_client_info": {
+          "package_name": "com.example.mehmetalinacakandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCZBpcAN7quZzA6YvRvzQ9FQeVARGUpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
